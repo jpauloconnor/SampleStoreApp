@@ -104,3 +104,86 @@ header {
 	float: left;
 	margin: 0px 0px 3px 0px;
 }
+
+#donut-header{
+	color: green;
+	font-size: 15px;
+	margin: 0px 0px 3px 0px;
+	height: 25px;
+}
+
+#header-title{
+	background-color: gray;
+	border-radius: 5px;
+}
+
+.products{
+	width: 25%;
+	float: left;
+	margin: 0px 0px 20px 0px;
+}
+
+.product-article{
+	height: 150px;
+	width: 200px;
+
+	border-width: 2px;
+	border-style: solid;
+	border-color: green;
+	margin: 3px 3px 3px 3px;
+	padding: 3px 3px 3px 3px;
+	border-radius: 5px;
+
+}
+
+.product-article-thumbnail{
+	width: 35px;
+	height: 35px;
+}
+
+.stuff{
+	width: 70%;
+	float: right;
+}
+
+#customer-of-day{
+	width: 450px;
+	height: 450px;
+	border-radius: 5px;
+}
+
+figcaption{
+	font-size: 12px;
+	font-weight: bold;
+	font-style: helvetica;
+	text-align: center;
+}
+
+
+footer{
+	clear: both;
+	width: 100%;
+	background-color: gray;
+	margin: 20px 0px 20px 0px;
+	padding: 5px 0px 0px 0px;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
