@@ -70,3 +70,27 @@ header {
 	font-weight: bold;
 	margin: bottom;
 }
+
+
+/* Container for news*/
+#recent-news{
+	float: right;
+	width: 300px;
+	margin: 20px 0px 20px 0px;
+}
+
+#recent-news > header{
+	margin-left: 5px;
+	color: green;
+	font-size: 15px;
+	font-weight: bold;
+	margin: bottom;
+}
+
+#recent-news > ul{
+	list-style: none;
+}
+
+#recent-news > ul > li{
+	margin: 0px 0px 3px 0px;
+}
