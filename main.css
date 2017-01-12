@@ -1,3 +1,10 @@
+body{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: verdana;
+}
+
 header {
 	font-weight: bold;
 }
@@ -6,6 +13,29 @@ header {
 	height: 80px;
 }
 
+/*Logo*/
+
+.logo{
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+	float: left;
+	margin-right: 10px;
+}
+
+
+/*Title*/
 #header-name {
 	font-size: 40px;
+	color: green;
+	padding: 15px;
+	margin: 8px 0px 0px 0px;
+}
+
+
+/*Search*/
+#search {
+	float: right;
+	padding: 5px;
+	margin: 10px 10px 0px 0px;
 }
