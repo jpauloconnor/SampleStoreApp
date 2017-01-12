@@ -87,10 +87,20 @@ header {
 	margin: bottom;
 }
 
-#recent-news > ul{
+#recent-news > ul {
 	list-style: none;
 }
 
 #recent-news > ul > li{
+	margin: 0px 0px 3px 0px;
+}
+
+
+
+/*main*/
+#main{
+	height: 100%;
+	width: 700px;
+	float: left;
 	margin: 0px 0px 3px 0px;
 }
